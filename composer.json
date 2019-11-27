@@ -1,0 +1,22 @@
+{
+    "name": "wangshunda/bnupay",
+    "description": "bnupay",
+    "type": "project",
+    "require": {
+        "php": "^7.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jack DU",
+            "email": "manager@网顺达.com"
+        }
+    ],
+    "minimum-stability": "stable",
+     "autoload": {
+        "psr-4": {
+            "wangshunda\\bnupay\\": "src/"
+        }
+    }
+
+}
